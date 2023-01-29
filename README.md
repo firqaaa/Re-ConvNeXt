@@ -1,2 +1,2 @@
 # ConvNext-PyTorch
-PyTorch Reimplementation of ConvNext
+ConvNext Re-implementation in PyTorch
