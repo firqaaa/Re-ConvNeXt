@@ -4,7 +4,8 @@
 
 ## The “Modernization” Process
 
-<img src="/home/firqaaa/Notebook/Python/Re-ConvNeXt/assets/fig-2.png"><br>
+<!-- <img src="/home/firqaaa/Notebook/Python/Re-ConvNeXt/assets/fig-2.png"><br> -->
+![image info](./assets/fig-2.png)
 
 <p style="font-size: 16px">(All models are trained and evaluated on ImageNet-1K. But for this case, i use CIFAR-10)</p>
 
